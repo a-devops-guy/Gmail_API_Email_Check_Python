@@ -1,0 +1,7 @@
+python-dotenv >= 0.15, < 1.0
+google-api-python-client >= 0.0
+google-auth-httplib2 >= 0.0
+google-auth-oauthlib >= 0.0
+html2text >= 0.0
+slack_sdk >= 0.0
+pytz >= 0.0
